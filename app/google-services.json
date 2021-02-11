@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454059722032",
+    "project_id": "foolingaround-eeb19",
+    "storage_bucket": "foolingaround-eeb19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454059722032:android:75aee135d638bc559eb4f5",
+        "android_client_info": {
+          "package_name": "gr.techzombie.foolingaround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454059722032-0se8c1ajsl9k5jfmhajviume6qvm0vp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gr.techzombie.foolingaround",
+            "certificate_hash": "d3bd95edb2e792ea5c4416f1b5868adc78ef9367"
+          }
+        },
+        {
+          "client_id": "454059722032-0616osfotk4des267us8f534mqgkafgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-Z26-p2KiSko20QsY72z1QzJ0Oxrxes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454059722032-0616osfotk4des267us8f534mqgkafgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
